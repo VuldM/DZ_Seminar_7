@@ -1,0 +1,18 @@
+<div class="few__icoks__container">
+        <div class="few__icoks">
+            <div class="blok__1">
+                <img src="#" alt="">
+            </div>
+            <div class="blok__2"></div>
+            <div class="blok__3"></div>
+        </div>
+
+    </div>
+
+
+.few__icons__container{
+    width: 100%;
+}
+.few__icons{
+    display: flex;
+}
